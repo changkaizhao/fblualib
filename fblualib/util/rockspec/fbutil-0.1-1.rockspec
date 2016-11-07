@@ -24,7 +24,7 @@ supported_platforms = {
     'unix',
 }
 dependencies = {
-    'penlight >= 1.3.1',
+   --'penlight >= 1.3.1',
 }
 source = {
     url = 'https://github.com/facebook/fblualib',
