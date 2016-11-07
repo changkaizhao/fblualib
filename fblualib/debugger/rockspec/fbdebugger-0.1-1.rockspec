@@ -37,9 +37,9 @@ source = {
 build = {
     type = 'builtin',
     modules = {
-        ['fb.debugger.breakpoint'] = 'https://raw.githubusercontent.com/facebook/fblualib/master/fblualib/debugger/fb/debugger/breakpoint.lua',
-        ['fb.debugger.init'] = 'https://raw.githubusercontent.com/facebook/fblualib/master/fblualib/debugger/fb/debugger/init.lua',
-        ['fb.debugger.types'] = 'https://raw.githubusercontent.com/facebook/fblualib/master/fblualib/debugger/fb/debugger/types.lua',
-        ['fb.debugger.utils'] = 'https://raw.githubusercontent.com/facebook/fblualib/master/fblualib/debugger/fb/debugger/utils.lua',
+        ['fb.debugger.breakpoint'] = 'https://raw.githubusercontent.com/changkaizhao/fblualib/master/fblualib/debugger/fb/debugger/breakpoint.lua',
+        ['fb.debugger.init'] = 'https://raw.githubusercontent.com/changkaizhao/fblualib/master/fblualib/debugger/fb/debugger/init.lua',
+        ['fb.debugger.types'] = 'https://raw.githubusercontent.com/changkaizhao/fblualib/master/fblualib/debugger/fb/debugger/types.lua',
+        ['fb.debugger.utils'] = 'https://raw.githubusercontent.com/changkaizhao/fblualib/master/fblualib/debugger/fb/debugger/utils.lua',
     },
 }
